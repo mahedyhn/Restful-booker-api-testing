@@ -236,4 +236,5 @@ The **Restful Booker API** is a publicly available REST API built for API testin
 
 ## 👤 Author
 
-Built for learning and demonstrating REST API test automation using **Postman** and **Newman**.
+Md Mahedy hasan Naiem
+Sqa Engineer
